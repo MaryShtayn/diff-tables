@@ -1,1 +1,1 @@
-# diff-tables
+# table-example
